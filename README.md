@@ -1,6 +1,4 @@
 # HardwareStore
-HardwareStore project for Object Oriented Programming course
-
 Show all existing items records in the database (sorted by ID number).
 
 Add new item (or quantity) to the database.
